@@ -1,0 +1,2 @@
+# XMU_SE_LearingSource
+在厦门大学软件工程系学习的经历过程
